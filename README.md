@@ -5,8 +5,8 @@ A collection of machine learning programs and practice exercises implemented in 
 ## 📚 Topics Covered
 
 - Data Preprocessing
-- Encoding Techniques
-- ID3 Algorithm
+- Label Encoding
+- One Hot Encoding
 - Linear Regression
 - Polynomial Regression
 - Logistic Regression
